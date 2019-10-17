@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operations Research | Zeynep Tugce Sahan</title>
+    <link>/tags/operations-research/</link>
+      <atom:link href="/tags/operations-research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Operations Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Operations Research</title>
+      <link>/tags/operations-research/</link>
+    </image>
+    
+    <item>
+      <title>Heuristics to Solve Multiple Objective NP-Hard Aircraft Gate Scheduling Problem</title>
+      <link>/project/external-project-2/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      <guid>/project/external-project-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airlines Revenue Management Decision Support Tool</title>
+      <link>/project/external-project-3/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/project/external-project-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

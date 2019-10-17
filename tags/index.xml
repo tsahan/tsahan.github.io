@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
+    <title>Tags | Zeynep Tugce Sahan</title>
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,58 @@
     </image>
     
     <item>
+      <title>Decision Analysis</title>
+      <link>/tags/decision-analysis/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/decision-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decision Support Systems</title>
       <link>/tags/decision-support-systems/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/tags/decision-support-systems/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
+      <title>Flood Risk Assessment</title>
+      <link>/tags/flood-risk-assessment/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/flood-risk-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Analytics</title>
+      <link>/tags/data-analytics/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operations Research</title>
+      <link>/tags/operations-research/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/operations-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling</title>
+      <link>/tags/scheduling/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/scheduling/</guid>
       <description></description>
     </item>
     
