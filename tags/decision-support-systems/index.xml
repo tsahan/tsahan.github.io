@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Decision Support Systems | Academic</title>
+    <link>/tags/decision-support-systems/</link>
+      <atom:link href="/tags/decision-support-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Decision Support Systems</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Academic</title>
-      <link>/</link>
+      <title>Decision Support Systems</title>
+      <link>/tags/decision-support-systems/</link>
     </image>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Homeowner-Level Decision Support System for Mitigating Coastal Flood Risk in Louisiana</title>
