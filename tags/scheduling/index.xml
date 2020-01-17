@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scheduling | Zeynep Tugce Sahan</title>
-    <link>/tags/scheduling/</link>
-      <atom:link href="/tags/scheduling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tsahan.github.io/tags/scheduling/</link>
+      <atom:link href="https://tsahan.github.io/tags/scheduling/index.xml" rel="self" type="application/rss+xml" />
     <description>Scheduling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tsahan.github.io/img/icon-192.png</url>
       <title>Scheduling</title>
-      <link>/tags/scheduling/</link>
+      <link>https://tsahan.github.io/tags/scheduling/</link>
     </image>
     
     <item>
       <title>Heuristics to Solve Multiple Objective NP-Hard Aircraft Gate Scheduling Problem</title>
-      <link>/project/scheduling-project/</link>
+      <link>https://tsahan.github.io/project/scheduling-project/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/project/scheduling-project/</guid>
+      <guid>https://tsahan.github.io/project/scheduling-project/</guid>
       <description>&lt;p&gt;This project uses Pm|pj, rj, dj| ΣTj approach to minimize tardiness at gates for a set of flights whose ready time (release time), occupation time (processing time) and due date are known.&lt;/p&gt;
 
 &lt;p&gt;This problem is known as an NP-hard problem and hence heuristic approaches are involved to reach a close to optimal solution.&lt;/p&gt;

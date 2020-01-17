@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | Zeynep Tugce Sahan</title>
-    <link>/slides/</link>
-      <atom:link href="/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tsahan.github.io/slides/</link>
+      <atom:link href="https://tsahan.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Slides</title>
-      <link>/slides/flood-risk-dss-slides/</link>
+      <link>https://tsahan.github.io/slides/flood-risk-dss-slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/flood-risk-dss-slides/</guid>
+      <guid>https://tsahan.github.io/slides/flood-risk-dss-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;homeowner-level-dss-for-mitigating-coastal-flood-risk-in-louisiana&#34;&gt;Homeowner-Level DSS for Mitigating Coastal Flood Risk in Louisiana&lt;/h1&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Analytics | Zeynep Tugce Sahan</title>
-    <link>/tags/data-analytics/</link>
-      <atom:link href="/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tsahan.github.io/tags/data-analytics/</link>
+      <atom:link href="https://tsahan.github.io/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Analytics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tsahan.github.io/img/icon-192.png</url>
       <title>Data Analytics</title>
-      <link>/tags/data-analytics/</link>
+      <link>https://tsahan.github.io/tags/data-analytics/</link>
     </image>
     
     <item>
       <title>HR Analytics - Employee Turnover Prediction</title>
-      <link>/project/hr-analytics-project/</link>
+      <link>https://tsahan.github.io/project/hr-analytics-project/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/project/hr-analytics-project/</guid>
+      <guid>https://tsahan.github.io/project/hr-analytics-project/</guid>
       <description></description>
     </item>
     

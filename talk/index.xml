@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Zeynep Tugce Sahan</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tsahan.github.io/talk/</link>
+      <atom:link href="https://tsahan.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Dec 2018 13:50:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tsahan.github.io/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://tsahan.github.io/talk/</link>
     </image>
     
     <item>
       <title>Homeowner-Level Decision Support System for Mitigating Coastal Flood Risk in Louisiana</title>
-      <link>/talk/sra/</link>
+      <link>https://tsahan.github.io/talk/sra/</link>
       <pubDate>Mon, 03 Dec 2018 13:50:00 +0000</pubDate>
-      <guid>/talk/sra/</guid>
+      <guid>https://tsahan.github.io/talk/sra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digital Tools to Promote Nonstructural Mitigation</title>
-      <link>/talk/soc/</link>
+      <link>https://tsahan.github.io/talk/soc/</link>
       <pubDate>Thu, 31 May 2018 14:00:00 +0000</pubDate>
-      <guid>/talk/soc/</guid>
+      <guid>https://tsahan.github.io/talk/soc/</guid>
       <description></description>
     </item>
     
