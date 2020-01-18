@@ -7,7 +7,7 @@
     <description>Scheduling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tsahan.github.io/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Scheduling</title>
       <link>https://tsahan.github.io/tags/scheduling/</link>
     </image>
@@ -18,11 +18,8 @@
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://tsahan.github.io/project/scheduling-project/</guid>
       <description>&lt;p&gt;This project uses Pm|pj, rj, dj| ΣTj approach to minimize tardiness at gates for a set of flights whose ready time (release time), occupation time (processing time) and due date are known.&lt;/p&gt;
-
 &lt;p&gt;This problem is known as an NP-hard problem and hence heuristic approaches are involved to reach a close to optimal solution.&lt;/p&gt;
-
 &lt;p&gt;Among multiple solutions for the first objective, ties are broken based on the minimum value of total walking distances. That is the best solution gives maximum number of passengers to be in the gate which is closer to the exit.&lt;/p&gt;
-
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQgYfCRLkcyqO9m8xdD7FA60c3D7wNbkspc05qyB2-tBXZaZysbI9fYWGKJyBLeIQ/embed?start=false&amp;amp;loop=false&amp;amp;delayms=30000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;

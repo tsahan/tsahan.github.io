@@ -7,7 +7,7 @@
     <description>Decision Support Systems</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tsahan.github.io/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Decision Support Systems</title>
       <link>https://tsahan.github.io/tags/decision-support-systems/</link>
     </image>
@@ -18,9 +18,7 @@
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://tsahan.github.io/project/flood-risk-dss-project/</guid>
       <description>&lt;p&gt;When developing policies for structure-level flood risk mitigation measures such as elevating home foundations, one of the first hurdles local and state decision-makers must clear is gathering data on what assets actually exist on the ground in their jurisdictions. Even in areas like Louisiana—where significant effort has been taken to study exposure and vulnerability since Hurricane Katrina struck in 2005—property data sets are incomplete, fragmented across agencies and jurisdictions, and/or obsolete. This presentation will discuss an initiative to create access to better structure-level data and to homeowners and floodplain managers in analyzing the costs and benefits associated with structure-level flood risk mitigation options. This is being accomplished through development of a new automated data collection, visualization and decision-support tool.&lt;/p&gt;
-
 &lt;p&gt;This new application uses machine learning for automated image analysis of street-level, aerial, and satellite imagery to identify building features relevant to flood risk vulnerability (e.g., foundation heights and types, square footage of building footprint). These features are combined with hazard information from the Coastal Louisiana Risk Assessment model to construct structure-level estimates of risk under current and future conditions, as well as estimates of the impact of mitigation measures on risk reduction. The information is communicated using a decision-support web application for homeowners, floodplain managers, realtors, and other stakeholders. The data can also be compiled over all structures in an area to produce more accurate estimates of aggregate exposure and to improve cost estimates for risk mitigation policies in various coastal communities.&lt;/p&gt;
-
 &lt;p&gt;As a partnership between state government, academia, and NGOs, for the benefit of individual homeowners and local planners, this project represents an example of an innovative approach to community resilience enabled by multi-sector collaboration.&lt;/p&gt;
 </description>
     </item>
@@ -31,11 +29,8 @@
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://tsahan.github.io/project/revenue-management-project/</guid>
       <description>&lt;p&gt;This is a term project for Decision Support Systems course. I utilized advanced level abilities including vlookups and Macros in MS Excel to provide an interactive user interface for revenue management problem of an airlines company.&lt;/p&gt;
-
 &lt;p&gt;First, mathematical model is created for maximizing profit by finding number of seats to be allocated for cabin classes in each flight. Then, I performed a sensitivity analysis under different scenarios using What-If Analysis tool. Additional functioalities include helping users update data and finding the best route based on different parameters.&lt;/p&gt;
-
 &lt;p&gt;Screenshots from the tool can be viewed below.&lt;/p&gt;
-
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vS3jzT2W5sGIwlCp7Pm_jOnz_-O3Jsx4rt1840rdfVPLJzJOYdE4DxWwR0EY9SsfA/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
