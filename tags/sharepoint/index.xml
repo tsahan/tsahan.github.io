@@ -17,7 +17,7 @@
       <link>https://tsahan.github.io/project/scheduled-tasks-monitoring-in-devops/</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://tsahan.github.io/project/scheduled-tasks-monitoring-in-devops/</guid>
-      <description>&lt;p&gt;In this framework, a Python script reads Windows Task Scheduler jobs along with detailed information about them, such as their schedule, folder paths, triggers, last run results etc. and transforms this information into JSON format. After that, JSON output is uploaded to a specific folder in Sharepoint.&lt;/p&gt;
+      <description>&lt;p&gt;In this ETL pipeline, a Python script reads Windows Task Scheduler jobs along with detailed information about them, such as their schedule, folder paths, triggers, last run results etc. and transforms this information into JSON format. After that, JSON output is uploaded to a specific folder in Sharepoint.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://tsahan.github.io/img/monitoring/flow-02.PNG&#34; alt=&#34;flow-02&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A flow is created in Power Automate that gets triggered by a change in that Sharepoint folder, parses the information in the JSON file, and updates Azure observers given below.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://tsahan.github.io/img/monitoring/observer.PNG&#34; alt=&#34;observer&#34;&gt;&lt;/p&gt;
