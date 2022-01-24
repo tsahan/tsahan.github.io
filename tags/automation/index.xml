@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation | Zeynep Tugce Sahan</title>
+    <link>https://tsahan.github.io/tags/automation/</link>
+      <atom:link href="https://tsahan.github.io/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Automation</title>
+      <link>https://tsahan.github.io/tags/automation/</link>
+    </image>
+    
+    <item>
+      <title>Scheduled Tasks Monitoring in DevOps</title>
+      <link>https://tsahan.github.io/project/scheduled-tasks-monitoring-in-devops/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tsahan.github.io/project/scheduled-tasks-monitoring-in-devops/</guid>
+      <description>&lt;p&gt;In this framework, a Python script reads Windows Task Scheduler jobs along with detailed information about them, such as their schedule, folder paths, triggers, last run results etc. and transforms this information into JSON format. After that, JSON output is uploaded to a specific folder in Sharepoint.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tsahan.github.io/img/monitoring/flow-02.PNG&#34; alt=&#34;flow-02&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A flow is created in Power Automate that gets triggered by a change in that Sharepoint folder, parses the information in the JSON file, and updates Azure observers given below.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tsahan.github.io/img/monitoring/observer.PNG&#34; alt=&#34;observer&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Finally, a query in Azure DevOps lists all observers in Project Portfolio page. This way, automated jobs in different remote servers can be monitored in one place and the jobs with issues can be easily located for further action.
+&lt;img src=&#34;https://tsahan.github.io/img/monitoring/dashboard.PNG&#34; alt=&#34;dashboard&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

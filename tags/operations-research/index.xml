@@ -14,9 +14,9 @@
     
     <item>
       <title>Heuristics to Solve Multiple Objective NP-Hard Aircraft Gate Scheduling Problem</title>
-      <link>https://tsahan.github.io/project/scheduling-project/</link>
+      <link>https://tsahan.github.io/project/aircraft-gate-scheduling/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://tsahan.github.io/project/scheduling-project/</guid>
+      <guid>https://tsahan.github.io/project/aircraft-gate-scheduling/</guid>
       <description>&lt;p&gt;This project uses Pm|pj, rj, dj| ΣTj approach to minimize tardiness at gates for a set of flights whose ready time (release time), occupation time (processing time) and due date are known.&lt;/p&gt;
 &lt;p&gt;This problem is known as an NP-hard problem and hence heuristic approaches are involved to reach a close to optimal solution.&lt;/p&gt;
 &lt;p&gt;Among multiple solutions for the first objective, ties are broken based on the minimum value of total walking distances. That is the best solution gives maximum number of passengers to be in the gate which is closer to the exit.&lt;/p&gt;
@@ -28,26 +28,10 @@
     
     <item>
       <title>Airlines Revenue Management Decision Support Tool</title>
-      <link>https://tsahan.github.io/project/revenue-management-project/</link>
+      <link>https://tsahan.github.io/project/revenue-management-dss/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://tsahan.github.io/project/revenue-management-project/</guid>
+      <guid>https://tsahan.github.io/project/revenue-management-dss/</guid>
       <description>&lt;p&gt;This is a term project for Decision Support Systems course. I utilized advanced level abilities including vlookups and Macros in MS Excel to provide an interactive user interface for revenue management problem of an airlines company.&lt;/p&gt;
-&lt;p&gt;First, mathematical model is created for maximizing profit by finding number of seats to be allocated for cabin classes in each flight. Then, I performed a sensitivity analysis under different scenarios using What-If Analysis tool. Additional functioalities include helping users update data and finding the best route based on different parameters.&lt;/p&gt;
-&lt;p&gt;Screenshots from the tool can be viewed below.&lt;/p&gt;
-&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vS3jzT2W5sGIwlCp7Pm_jOnz_-O3Jsx4rt1840rdfVPLJzJOYdE4DxWwR0EY9SsfA/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Airlines Revenue Management Decision Support Tool</title>
-      <link>https://tsahan.github.io/project/text-classification-nlp-project/</link>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://tsahan.github.io/project/text-classification-nlp-project/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://tsahan.github.io/static/img/monitoring/monitoring-01.PNG&#34; alt=&#34;monitoring-01&#34;&gt;
-&lt;img src=&#34;https://tsahan.github.io/static/img/monitoring/monitoring-01.PNG&#34; alt=&#34;demo&#34; class=&#34;img-responsive&#34;&gt;&lt;/p&gt;
-&lt;p&gt;This is a term project for Decision Support Systems course. I utilized advanced level abilities including vlookups and Macros in MS Excel to provide an interactive user interface for revenue management problem of an airlines company.&lt;/p&gt;
 &lt;p&gt;First, mathematical model is created for maximizing profit by finding number of seats to be allocated for cabin classes in each flight. Then, I performed a sensitivity analysis under different scenarios using What-If Analysis tool. Additional functioalities include helping users update data and finding the best route based on different parameters.&lt;/p&gt;
 &lt;p&gt;Screenshots from the tool can be viewed below.&lt;/p&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;

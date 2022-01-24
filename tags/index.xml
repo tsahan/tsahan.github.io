@@ -5,12 +5,76 @@
     <link>https://tsahan.github.io/tags/</link>
       <atom:link href="https://tsahan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://tsahan.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Automation</title>
+      <link>https://tsahan.github.io/tags/automation/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tsahan.github.io/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure DevOps</title>
+      <link>https://tsahan.github.io/tags/azure-devops/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tsahan.github.io/tags/azure-devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow</title>
+      <link>https://tsahan.github.io/tags/flow/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tsahan.github.io/tags/flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>https://tsahan.github.io/tags/monitoring/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tsahan.github.io/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Automate</title>
+      <link>https://tsahan.github.io/tags/power-automate/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tsahan.github.io/tags/power-automate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://tsahan.github.io/tags/python/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tsahan.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharepoint</title>
+      <link>https://tsahan.github.io/tags/sharepoint/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tsahan.github.io/tags/sharepoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ArcGIS API</title>
+      <link>https://tsahan.github.io/tags/arcgis-api/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tsahan.github.io/tags/arcgis-api/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Decision Analysis</title>
@@ -33,6 +97,14 @@
       <link>https://tsahan.github.io/tags/flood-risk-assessment/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://tsahan.github.io/tags/flood-risk-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server</title>
+      <link>https://tsahan.github.io/tags/sql-server/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tsahan.github.io/tags/sql-server/</guid>
       <description></description>
     </item>
     

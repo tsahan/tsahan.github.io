@@ -14,9 +14,9 @@
     
     <item>
       <title>Heuristics to Solve Multiple Objective NP-Hard Aircraft Gate Scheduling Problem</title>
-      <link>https://tsahan.github.io/project/scheduling-project/</link>
+      <link>https://tsahan.github.io/project/aircraft-gate-scheduling/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://tsahan.github.io/project/scheduling-project/</guid>
+      <guid>https://tsahan.github.io/project/aircraft-gate-scheduling/</guid>
       <description>&lt;p&gt;This project uses Pm|pj, rj, dj| ΣTj approach to minimize tardiness at gates for a set of flights whose ready time (release time), occupation time (processing time) and due date are known.&lt;/p&gt;
 &lt;p&gt;This problem is known as an NP-hard problem and hence heuristic approaches are involved to reach a close to optimal solution.&lt;/p&gt;
 &lt;p&gt;Among multiple solutions for the first objective, ties are broken based on the minimum value of total walking distances. That is the best solution gives maximum number of passengers to be in the gate which is closer to the exit.&lt;/p&gt;

@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tsahan.github.io/tags/automation/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tsahan.github.io/tags/azure-devops/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tsahan.github.io/tags/flow/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tsahan.github.io/tags/monitoring/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tsahan.github.io/tags/power-automate/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tsahan.github.io/project/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tsahan.github.io/tags/python/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tsahan.github.io/project/scheduled-tasks-monitoring-in-devops/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tsahan.github.io/tags/sharepoint/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tsahan.github.io/tags/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tsahan.github.io/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tsahan.github.io/tags/arcgis-api/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tsahan.github.io/tags/decision-analysis/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
   </url>
@@ -18,22 +78,12 @@
   </url>
   
   <url>
-    <loc>https://tsahan.github.io/project/flood-risk-dss-project/</loc>
+    <loc>https://tsahan.github.io/project/flood-risk-dss/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tsahan.github.io/project/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tsahan.github.io/tags/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tsahan.github.io/</loc>
+    <loc>https://tsahan.github.io/tags/sql-server/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,7 +113,7 @@
   </url>
   
   <url>
-    <loc>https://tsahan.github.io/project/hr-analytics-project/</loc>
+    <loc>https://tsahan.github.io/project/hr-analytics/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://tsahan.github.io/project/scheduling-project/</loc>
+    <loc>https://tsahan.github.io/project/aircraft-gate-scheduling/</loc>
     <lastmod>2018-04-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,12 +143,7 @@
   </url>
   
   <url>
-    <loc>https://tsahan.github.io/project/revenue-management-project/</loc>
-    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tsahan.github.io/project/text-classification-nlp-project/</loc>
+    <loc>https://tsahan.github.io/project/revenue-management-dss/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
   </url>
   

@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="An interface for revenue management including a mathematical model to maximize profit by finding number of seats to be allocated for cabin classes in each flight.">
+  <meta name="description" content="A framework to streamline scheduled tasks in Windows Task Scheduler and monitor their states in Azure DevOps.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://tsahan.github.io/project/text-classification-nlp-project/">
@@ -265,14 +265,14 @@
   
   <meta property="og:site_name" content="Zeynep Tugce Sahan">
   <meta property="og:url" content="https://tsahan.github.io/project/text-classification-nlp-project/">
-  <meta property="og:title" content="Airlines Revenue Management Decision Support Tool | Zeynep Tugce Sahan">
-  <meta property="og:description" content="An interface for revenue management including a mathematical model to maximize profit by finding number of seats to be allocated for cabin classes in each flight."><meta property="og:image" content="https://tsahan.github.io/project/text-classification-nlp-project/featured.PNG">
+  <meta property="og:title" content="Scheduled Tasks Monitoring in DevOps | Zeynep Tugce Sahan">
+  <meta property="og:description" content="A framework to streamline scheduled tasks in Windows Task Scheduler and monitor their states in Azure DevOps."><meta property="og:image" content="https://tsahan.github.io/project/text-classification-nlp-project/featured.PNG">
   <meta property="twitter:image" content="https://tsahan.github.io/project/text-classification-nlp-project/featured.PNG"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2017-06-07T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2021-07-06T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2017-06-07T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-07-06T00:00:00&#43;00:00">
   
 
   
@@ -298,14 +298,14 @@
     "@type": "WebPage",
     "@id": "https://tsahan.github.io/project/text-classification-nlp-project/"
   },
-  "headline": "Airlines Revenue Management Decision Support Tool",
+  "headline": "Scheduled Tasks Monitoring in DevOps",
   
   "image": [
     "https://tsahan.github.io/project/text-classification-nlp-project/featured.PNG"
   ],
   
-  "datePublished": "2017-06-07T00:00:00Z",
-  "dateModified": "2017-06-07T00:00:00Z",
+  "datePublished": "2021-07-06T00:00:00Z",
+  "dateModified": "2021-07-06T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -320,7 +320,7 @@
       "url": "img/https://tsahan.github.io/"
     }
   },
-  "description": "An interface for revenue management including a mathematical model to maximize profit by finding number of seats to be allocated for cabin classes in each flight."
+  "description": "A framework to streamline scheduled tasks in Windows Task Scheduler and monitor their states in Azure DevOps."
 }
 </script>
 
@@ -338,7 +338,7 @@
 
 
 
-  <title>Airlines Revenue Management Decision Support Tool | Zeynep Tugce Sahan</title>
+  <title>Scheduled Tasks Monitoring in DevOps | Zeynep Tugce Sahan</title>
 
 </head>
 
@@ -643,7 +643,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Airlines Revenue Management Decision Support Tool</h1>
+  <h1>Scheduled Tasks Monitoring in DevOps</h1>
 
   
 
@@ -661,7 +661,7 @@
     
       
     
-    Jun 7, 2017
+    Jul 6, 2021
   </span>
   
 
@@ -708,14 +708,12 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p><img src="/static/img/monitoring/monitoring-01.PNG" alt="monitoring-01">
-<img src="/static/img/monitoring/monitoring-01.PNG" alt="demo" class="img-responsive"></p>
-<p>This is a term project for Decision Support Systems course. I utilized advanced level abilities including vlookups and Macros in MS Excel to provide an interactive user interface for revenue management problem of an airlines company.</p>
-<p>First, mathematical model is created for maximizing profit by finding number of seats to be allocated for cabin classes in each flight. Then, I performed a sensitivity analysis under different scenarios using What-If Analysis tool. Additional functioalities include helping users update data and finding the best route based on different parameters.</p>
-<p>Screenshots from the tool can be viewed below.</p>
-<div class="responsive-wrap">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3jzT2W5sGIwlCp7Pm_jOnz_-O3Jsx4rt1840rdfVPLJzJOYdE4DxWwR0EY9SsfA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
+      <p>In this framework, a Python script reads Windows Task Scheduler jobs along with detailed information about them, such as their schedule, folder paths, triggers, last run results etc. and transforms this information into JSON format. After that, JSON output is uploaded to a specific folder in Sharepoint.</p>
+<p><img src="/img/monitoring/flow-02.PNG" alt="flow-02"></p>
+<p>A flow is created in Power Automate that gets triggered by a change in that Sharepoint folder, parses the information in the JSON file, and updates Azure observers given below.</p>
+<p><img src="/img/monitoring/observer.PNG" alt="observer"></p>
+<p>Finally, a query in Azure DevOps lists all observers in Project Portfolio page. This way, automated jobs in different remote servers can be monitored in one place and the jobs with issues can be easily located for further action.
+<img src="/img/monitoring/dashboard.PNG" alt="dashboard"></p>
 
     </div>
 
@@ -727,9 +725,19 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/operations-research/">Operations Research</a>
+  <a class="badge badge-light" href="/tags/python/">Python</a>
   
-  <a class="badge badge-light" href="/tags/decision-support-systems/">Decision Support Systems</a>
+  <a class="badge badge-light" href="/tags/power-automate/">Power Automate</a>
+  
+  <a class="badge badge-light" href="/tags/automation/">Automation</a>
+  
+  <a class="badge badge-light" href="/tags/monitoring/">Monitoring</a>
+  
+  <a class="badge badge-light" href="/tags/azure-devops/">Azure DevOps</a>
+  
+  <a class="badge badge-light" href="/tags/sharepoint/">Sharepoint</a>
+  
+  <a class="badge badge-light" href="/tags/flow/">Flow</a>
   
 </div>
 
@@ -746,7 +754,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://tsahan.github.io/project/text-classification-nlp-project/&amp;text=Airlines%20Revenue%20Management%20Decision%20Support%20Tool" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://tsahan.github.io/project/text-classification-nlp-project/&amp;text=Scheduled%20Tasks%20Monitoring%20in%20DevOps" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -759,7 +767,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://tsahan.github.io/project/text-classification-nlp-project/&amp;t=Airlines%20Revenue%20Management%20Decision%20Support%20Tool" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://tsahan.github.io/project/text-classification-nlp-project/&amp;t=Scheduled%20Tasks%20Monitoring%20in%20DevOps" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -772,7 +780,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Airlines%20Revenue%20Management%20Decision%20Support%20Tool&amp;body=https://tsahan.github.io/project/text-classification-nlp-project/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Scheduled%20Tasks%20Monitoring%20in%20DevOps&amp;body=https://tsahan.github.io/project/text-classification-nlp-project/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -785,7 +793,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://tsahan.github.io/project/text-classification-nlp-project/&amp;title=Airlines%20Revenue%20Management%20Decision%20Support%20Tool" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://tsahan.github.io/project/text-classification-nlp-project/&amp;title=Scheduled%20Tasks%20Monitoring%20in%20DevOps" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -798,7 +806,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Airlines%20Revenue%20Management%20Decision%20Support%20Tool%20https://tsahan.github.io/project/text-classification-nlp-project/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Scheduled%20Tasks%20Monitoring%20in%20DevOps%20https://tsahan.github.io/project/text-classification-nlp-project/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -811,7 +819,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://tsahan.github.io/project/text-classification-nlp-project/&amp;title=Airlines%20Revenue%20Management%20Decision%20Support%20Tool" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://tsahan.github.io/project/text-classification-nlp-project/&amp;title=Scheduled%20Tasks%20Monitoring%20in%20DevOps" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -919,15 +927,6 @@
 
 
   
-  
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/project/revenue-management-project/">Airlines Revenue Management Decision Support Tool</a></li>
-      
-    </ul>
-  </div>
   
 
 
